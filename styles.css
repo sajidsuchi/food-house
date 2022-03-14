@@ -1,0 +1,19 @@
+h1{
+    color:lawngreen;
+}
+.name{
+    color:red;
+    font-size: 50px;
+}
+.box{
+    text-align: center;
+    background-image: url(images/background/Frame\ 58.jpg);
+}
+.logo{
+    width:20%;
+    height: 30%;
+}
+.all{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

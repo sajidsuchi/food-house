@@ -1,0 +1,50 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+.flexible-container{
+    display:flex;
+}
+.one{
+    color:blue
+}
+.two{
+    color:blueviolet
+}
+.first{
+    width:30%;
+    padding-right:30px ;
+}
+.first img{
+    width:100%;
+    padding-left: 15px;
+}
+.second{
+    width:40%;
+    padding-left:40px;
+}
+.third{
+    width:30%;
+}
+.third img{
+    width:80%;
+    padding-top: 50px;
+}
+.new{
+    color:red;
+    font-size: 40px;
+}
+.account{
+    text-decoration: none;
+    width: 50px;
+    background-image: linear-gradient(Red,Orangered,Orange,#FFF700) ;
+    border-radius: 10px;
+padding:10px 30px;
+margin: 5px;
+color:green;
+}
+.top{
+    background-image: url(images/background/top-banner.png);
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
