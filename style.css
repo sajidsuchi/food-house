@@ -48,3 +48,22 @@ color:green;
     background-repeat: no-repeat;
     padding-top: 40px;
 }
+.body{
+    background-image:url(images/background/Frame\ 57.jpg);
+}
+.fourth{
+    width:50%;
+    padding-right:150px;
+}
+.fourth img{
+    width: 100%;
+    padding-top: 50%;
+    padding-left: 50px;
+
+}
+.fifth{
+    width:50%;
+    padding-top: 30%;
+    padding-left:120px;
+    padding-right: 10px;
+}

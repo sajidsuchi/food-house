@@ -1,4 +1,8 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
 h1{
+    font-size: 40px;
     color:lawngreen;
 }
 .name{
@@ -8,6 +12,8 @@ h1{
 .box{
     text-align: center;
     background-image: url(images/background/Frame\ 58.jpg);
+    height:200%
+ ;
 }
 .logo{
     width:20%;
