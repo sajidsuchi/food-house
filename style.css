@@ -174,3 +174,7 @@ height:77%;
 .happy{
     color:red;
 }
+.finall{
+    background-image: linear-gradient(black,gray,silver);
+    border-radius: 5px;
+}
